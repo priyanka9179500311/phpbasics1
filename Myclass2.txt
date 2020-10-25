@@ -1,0 +1,23 @@
+<?php
+//class Declaration
+	class MyClass{
+		//1. property
+		
+		//2. constructor
+		
+		//3. method
+		public static function get1(){
+			echo 'hello from method1';//statement
+			echo '<br>';//break line
+		}
+		
+		public static function get2(){
+			echo 'hello from method2';//statement
+		}
+	}
+	
+	MyClass::get1();
+	MyClass::get2();
+	
+
+?>
