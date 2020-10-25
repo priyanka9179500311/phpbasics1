@@ -1,9 +1,4 @@
-# phpbasics1
 <?php
-
-
-
-
 
 //class Declaration
 	class MyClass{
@@ -34,9 +29,4 @@
 	
 
 
-
-
-
-
 ?>
-
